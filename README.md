@@ -2,8 +2,6 @@
 
 <center><h4>Search for markets to promote content related to Web Development and Mobile Development for an E-Learning Company</h4></center>
 
-Search for markets to promote content related to Web Development and Mobile Development for an E-Learning Company
-
 In this project, we'll aim to find the two best markets to advertise our product in — we're working for an e-learning company that offers courses on programming. Most of our courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc.
 
 The objective of this project is to strengthen statistical skills such as - summarizing distributions, measuring variability of a distribution, and understanding of z-scores. The project will help in combining these skills together to perform practical statistical data analysis.
